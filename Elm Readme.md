@@ -1,5 +1,5 @@
 
-![Elm Tetris App](Elm2.png)
+![Elm Tetris App](images/elm2.png)
 Here is an example of what elm can help users do.
 
 #Intro
@@ -80,6 +80,6 @@ function render() {
 When these lines of code are pasted into a React App, the app now has the ability to use Elm in 
 conjuction with React to carry over the simple functionality and error messaging help into React.
 
-![Elm React Chat App](Elm1.png)
+![Elm React Chat App](images/elm1.png)
 
 
