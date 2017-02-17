@@ -80,6 +80,9 @@ function render() {
 When these lines of code are pasted into a React App, the app now has the ability to use Elm in 
 conjuction with React to carry over the simple functionality and error messaging help into React.
 
+###Here is an example of a React-Elm component that is basically a chat app that updates in real-time. It adds emojis to the
+textbox onclick and then adds them into the chatbox. There is no edit or delete function. 
+
 ![Elm React Chat App](images/elm1.png)
 
 
